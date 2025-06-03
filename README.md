@@ -2,5 +2,5 @@
 Project ฝึกงาน สอท. หน่วยสนับสนุน
 
 Frontend - react <br>
-Backend - Python <br>
+Backend - Python (Fast api) <br>
 Database - mongoDB
